@@ -1,7 +1,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello World](#-hello-world)
+- [📖 Hello-World](#-hello-world)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -14,25 +14,33 @@
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Hello World<a name="Creating a Hello World project "></a>
+# 📖 Hello-World<a name="Creating Microverse Hello-worl project "></a>
 
 
-**Super Portfolio** is a project build with the knowledge of Html and CSS that has a header.
+**Hello World** is a project build with the knowledge of Html and CSS that has a header.
 
-## 🛠 Built With <a name="HTML"></a>
+## 🛠 Built With <a name="HTML&CSS"></a>
 
-### Tech Stack <a name="HTML and LINTERS"></a>
+### Tech Stack <a name="HTML,CSS and LINTERS"></a>
 
 <details>
 ### Key Features <a name="key-features"></a>
   <summary>HTML</summary>
   <ul>
     <li><a href="https:w3schools.com">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https:w3schools.com">CSS</a></li>
   </ul>
 </details>
 
@@ -45,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [NOT AVAILABLE FOR NOW](https:#)
+- [NOW AVAILABLE AT THE MOMENT]
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -127,12 +135,20 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Author1** Richmond Shu Nfortayong
 
 - GitHub: [@githubhandle](https://github.com/shurichmond)
 - Twitter: [@twitterhandle](https://twitter.com/shurichmond85)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shu-nfortayong-richmond-10a28620a/)
 
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Contact form and design improvements]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -154,4 +170,4 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
