@@ -55,7 +55,7 @@
 
 - [NOW AVAILABLE AT THE MOMENT]
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name="https://github.com/shurichmond/Hello-World"></a>
 
 To get a local copy up and running, follow these steps.
 
@@ -170,4 +170,4 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
