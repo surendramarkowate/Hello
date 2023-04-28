@@ -124,7 +124,7 @@ If you like this project, You can support it by giving it a star ⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I Acknowlodge the support and inspiration of My friends who are senior developers
+- I Acknowlodge the support and inspiration of My friends who are senior developers
 
 ## 📝 License <a name="license"></a>
 
