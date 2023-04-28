@@ -126,7 +126,7 @@ If you like this project, You can support it by giving it a star ⭐
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank My friends for the support and inspiration. 
 
 
 ## 📝 License <a name="license"></a>
