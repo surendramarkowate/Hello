@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        NODEJS_VERSION = '14'  // Specify the Node.js version
+        NODE_ENV = 'production'
     }
 
     stages {
@@ -12,24 +12,34 @@ pipeline {
             }
         }
 
-        stage('Build') {
+        stage('Install Dependencies') {
             steps {
-                // Use Node.js 14 for this stage
-                withNodejs(nodejsInstallationName: 'Node.js 14') {
-                    sh 'npm install'
-                }
+                sh 'npm ci'
             }
         }
 
-        // Add more stages as per your build/deployment process
+        stage('Run Tests') {
+            steps {
+                sh 'npm test'
+            }
+        }
+
+        stage('Build') {
+            steps {
+                sh 'npm run build'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deployment step'
+            }
+        }
     }
 
     post {
-        success {
-            echo 'Pipeline succeeded!'
-        }
-        failure {
-            echo 'Pipeline failed!'
+        always {
+            cleanWs()
         }
     }
 }
